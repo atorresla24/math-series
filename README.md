@@ -9,7 +9,8 @@ Setup
 
 How to initialize/run your application 
 python series.py
-How to use your library (where applicable)
+How to use your library 
+pip install -r requirements.txt
 Tests
 Run tests by inputting pytest
 Tests check to make sure functions work
